@@ -6,6 +6,7 @@ Orcad 、Allegro 软件学习笔记
 
 ### Allegro 
 
+*   [009_Git本地分支管理 ](docs/009_Git本地分支管理.md)
 *   [008_树莓派搭建git服务器](docs/008_树莓派搭建git服务器.md)
 *   [007_Allegro快捷键的设置](docs/007_Allegro快捷键的设置.md)
 *   [005_Allegro_约束规则设置（五）](docs/001_006_Allegro_约束规则设置（五）.md)
