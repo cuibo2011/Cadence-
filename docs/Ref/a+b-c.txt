@@ -1,0 +1,15 @@
+let
+    ( (a b c)
+    ;
+    a = acGetLength(scopeKind,scopeName,ACNS_NET, "FTDI1_DIR1") 
+    b = acGetLength(scopeKind,scopeName,ACNS_NET, "FTDI1_DIR2") 
+    c = acGetLength(scopeKind,scopeName,ACNS_NET, "FTDI2_DIR1") 
+    ;
+    ;debug messages
+    acFormulaDebug_printf("Debug output\n")
+    acFormulaDebug_printf("The length of FTDI1_DIR1:%f\n" a)
+    acFormulaDebug_printf("The length of FTDI1_DIR2:%f\n" b)
+    acFormulaDebug_printf("The length of FTDI2_DIR1:%f\n" c)
+    ;
+    (a+b)-c
+    )
