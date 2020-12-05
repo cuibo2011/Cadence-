@@ -1,6 +1,6 @@
 # README
 
-Orcad 、Allegro 软件学习笔记
+Design tool usage skills 学习笔记
 
 ## 笔记文档
 
